@@ -1,0 +1,3 @@
+D:/visual studio/VsCode/Teyvat Survivor/build/CMakeFiles/asd-Windows.dir
+D:/visual studio/VsCode/Teyvat Survivor/build/CMakeFiles/ALL_BUILD.dir
+D:/visual studio/VsCode/Teyvat Survivor/build/CMakeFiles/ZERO_CHECK.dir
