@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\visual studio\VsCode\提瓦特幸存者\build\x64\MinSizeRel\ZERO_CHECK</FullPath>
+      <FullPath>D:\visual studio\VsCode\Teyvat Survivor\build\x64\MinSizeRel\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\visual studio\VsCode\提瓦特幸存者\build\MinSizeRel\asd-Windows.exe</FullPath>
+      <FullPath>D:\visual studio\VsCode\Teyvat Survivor\build\MinSizeRel\asd-Windows.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\visual studio\VsCode\提瓦特幸存者\build\x64\MinSizeRel\ALL_BUILD</FullPath>
+      <FullPath>D:\visual studio\VsCode\Teyvat Survivor\build\x64\MinSizeRel\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
