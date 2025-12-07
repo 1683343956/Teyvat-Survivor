@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\main.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\Game.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\SceneMenu.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\SceneMenu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\SceneGame.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\SceneGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\Button.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\Button.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\ResourcesManager.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\ResourcesManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\Animation.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\Animation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\Player.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\visual studio\VsCode\Teyvat Survivor\src\Enemy.cpp">
+    <ClCompile Include="D:\Visual_Studio\VsCode\Teyvat Survivor\src\Enemy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\visual studio\VsCode\Teyvat Survivor\CMakeLists.txt" />
+    <CustomBuild Include="D:\Visual_Studio\VsCode\Teyvat Survivor\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{7878A312-4D14-3B99-8D20-3983E18F58EB}</UniqueIdentifier>
+      <UniqueIdentifier>{6FEE750B-7476-3376-A57B-BF5FB062FC83}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

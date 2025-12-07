@@ -50,14 +50,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Debug-7e71ea197cb5769776ea.json",
+					"jsonFile" : "target-ZERO_CHECK-Debug-42630a7ecf0816f36b28.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "asd-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-asd-Windows-Debug-e5e26a8c03b4e84c4123.json",
+					"jsonFile" : "target-asd-Windows-Debug-aac81859fd93a186b34b.json",
 					"name" : "asd-Windows",
 					"projectIndex" : 0
 				}
@@ -112,14 +112,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Release-7e71ea197cb5769776ea.json",
+					"jsonFile" : "target-ZERO_CHECK-Release-42630a7ecf0816f36b28.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "asd-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-asd-Windows-Release-90c5f3d8753b46a4c317.json",
+					"jsonFile" : "target-asd-Windows-Release-9e40a5940edc7253f99b.json",
 					"name" : "asd-Windows",
 					"projectIndex" : 0
 				}
@@ -174,14 +174,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-7e71ea197cb5769776ea.json",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-42630a7ecf0816f36b28.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "asd-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-asd-Windows-MinSizeRel-e34825f6c717878fcca4.json",
+					"jsonFile" : "target-asd-Windows-MinSizeRel-fd122488281e28c2c1f6.json",
 					"name" : "asd-Windows",
 					"projectIndex" : 0
 				}
@@ -236,14 +236,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-7e71ea197cb5769776ea.json",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-42630a7ecf0816f36b28.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "asd-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-asd-Windows-RelWithDebInfo-a8a074093ba0dc99b40b.json",
+					"jsonFile" : "target-asd-Windows-RelWithDebInfo-238d1bf2f4f6f2c57ddb.json",
 					"name" : "asd-Windows",
 					"projectIndex" : 0
 				}
@@ -253,8 +253,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/visual studio/VsCode/Teyvat Survivor/build",
-		"source" : "D:/visual studio/VsCode/Teyvat Survivor"
+		"build" : "D:/Visual_Studio/VsCode/Teyvat Survivor/build",
+		"source" : "D:/Visual_Studio/VsCode/Teyvat Survivor"
 	},
 	"version" : 
 	{

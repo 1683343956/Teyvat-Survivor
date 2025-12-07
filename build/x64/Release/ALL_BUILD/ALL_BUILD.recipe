@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\visual studio\VsCode\提瓦特幸存者\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>D:\Visual_Studio\VsCode\Teyvat Survivor\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\visual studio\VsCode\提瓦特幸存者\asd-Windows.exe</FullPath>
+      <FullPath>D:\Visual_Studio\VsCode\Teyvat Survivor\asd-Windows.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\visual studio\VsCode\提瓦特幸存者\build\x64\Release\ALL_BUILD</FullPath>
+      <FullPath>D:\Visual_Studio\VsCode\Teyvat Survivor\build\x64\Release\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

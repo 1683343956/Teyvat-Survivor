@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "MinSizeRel/asd-Windows.exe"
+			"path" : "RelWithDebInfo/asd-Windows.exe"
 		},
 		{
-			"path" : "MinSizeRel/asd-Windows.pdb"
+			"path" : "RelWithDebInfo/asd-Windows.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -29,19 +29,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 25,
+				"line" : 37,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 36,
+				"line" : 48,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 8,
+				"line" : 14,
 				"parent" : 0
 			}
 		]
@@ -52,7 +52,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O1 /Ob1 /DNDEBUG -std:c++17"
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG -std:c++17"
 				},
 				{
 					"backtrace" : 3,
@@ -64,12 +64,12 @@
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "D:/visual studio/library/SDL3/include"
+					"path" : "D:/Visual_Studio/library/SDL3/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "D:/visual studio/library/SDL3/cmake/../include"
+					"path" : "D:/Visual_Studio/library/SDL3/cmake/../include"
 				}
 			],
 			"language" : "CXX",
@@ -107,31 +107,31 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O1 /Ob1 /DNDEBUG",
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:x64 /INCREMENTAL:NO /subsystem:console",
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
 				"role" : "flags"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "\"D:\\visual studio\\library\\SDL3\\cmake\\..\\lib\\x64\\SDL3_image.lib\"",
+				"fragment" : "D:\\Visual_Studio\\library\\SDL3\\cmake\\..\\lib\\x64\\SDL3_image.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "\"D:\\visual studio\\library\\SDL3\\lib\\SDL3_mixer.lib\"",
+				"fragment" : "D:\\Visual_Studio\\library\\SDL3\\lib\\SDL3_mixer.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "\"D:\\visual studio\\library\\SDL3\\cmake\\..\\lib\\x64\\SDL3_ttf.lib\"",
+				"fragment" : "D:\\Visual_Studio\\library\\SDL3\\cmake\\..\\lib\\x64\\SDL3_ttf.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "\"D:\\visual studio\\library\\SDL3\\lib\\x64\\SDL3.lib\"",
+				"fragment" : "D:\\Visual_Studio\\library\\SDL3\\lib\\x64\\SDL3.lib",
 				"role" : "libraries"
 			},
 			{

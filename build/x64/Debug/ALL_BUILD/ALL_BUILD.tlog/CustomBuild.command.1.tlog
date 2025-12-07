@@ -1,6 +1,6 @@
-^D:\VISUAL STUDIO\VSCODE\TEYVAT SURVIVOR\CMAKELISTS.TXT
+^D:\VISUAL_STUDIO\VSCODE\TEYVAT SURVIVOR\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/visual studio/VsCode/Teyvat Survivor" "-BD:/visual studio/VsCode/Teyvat Survivor/build" --check-stamp-file "D:/visual studio/VsCode/Teyvat Survivor/build/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Visual_Studio/VsCode/Teyvat Survivor" "-BD:/Visual_Studio/VsCode/Teyvat Survivor/build" --check-stamp-file "D:/Visual_Studio/VsCode/Teyvat Survivor/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

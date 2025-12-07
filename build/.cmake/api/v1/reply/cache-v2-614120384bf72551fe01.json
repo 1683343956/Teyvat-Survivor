@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/visual studio/VsCode/Teyvat Survivor/build"
+			"value" : "d:/Visual_Studio/VsCode/Teyvat Survivor/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/visual studio/VsCode/Teyvat Survivor/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/Visual_Studio/VsCode/Teyvat Survivor/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/visual studio/VsCode/Teyvat Survivor"
+			"value" : "D:/Visual_Studio/VsCode/Teyvat Survivor"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1099,7 +1099,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/visual studio/library/SDL3/cmake"
+			"value" : "D:/Visual_Studio/library/SDL3/cmake"
 		},
 		{
 			"name" : "SDL3_image_DIR",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/visual studio/library/SDL3/cmake"
+			"value" : "D:/Visual_Studio/library/SDL3/cmake"
 		},
 		{
 			"name" : "SDL3_mixer_DIR",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/visual studio/library/SDL3/cmake"
+			"value" : "D:/Visual_Studio/library/SDL3/cmake"
 		},
 		{
 			"name" : "SDL3_ttf_DIR",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/visual studio/library/SDL3/cmake"
+			"value" : "D:/Visual_Studio/library/SDL3/cmake"
 		},
 		{
 			"name" : "SDL_CPU_ARM32",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/visual studio/VsCode/Teyvat Survivor/build"
+			"value" : "D:/Visual_Studio/VsCode/Teyvat Survivor/build"
 		},
 		{
 			"name" : "asd_IS_TOP_LEVEL",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/visual studio/VsCode/Teyvat Survivor"
+			"value" : "D:/Visual_Studio/VsCode/Teyvat Survivor"
 		}
 	],
 	"kind" : "cache",
